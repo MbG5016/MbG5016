@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MbG
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning PHP
